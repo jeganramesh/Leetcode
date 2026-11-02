@@ -9,7 +9,7 @@ Start a category by reading its note, and finish it by re-reading the pitfalls.
 | # | Pattern | Note | Status |
 |---|---|---|---|
 | 1 | Arrays & Hashing | [01_arrays_and_hashing](01_arrays_and_hashing/README.md) | written |
-| 2 | Two Pointers | — | not yet |
+| 2 | Two Pointers | [02_two_pointers](02_two_pointers/README.md) | written |
 | 3 | Sliding Window | — | not yet |
 | 4 | Fast & Slow Pointers | — | not yet |
 | 5 | Binary Search | — | not yet |
